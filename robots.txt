@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gulunash.github.io/sitemap.html.gz
+Sitemap: https://gulunash.github.io/app/sitemap.html.gz
+Sitemap: https://gulunash.github.io/assets/sitemap.html.gz
+Sitemap: https://gulunash.github.io/css/sitemap.html.gz
+Sitemap: https://gulunash.github.io/includes/sitemap.html.gz
+Sitemap: https://gulunash.github.io/item/sitemap.html.gz
+Sitemap: https://gulunash.github.io/src/sitemap.html.gz
